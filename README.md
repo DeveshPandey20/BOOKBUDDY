@@ -1,2 +1,1 @@
-# BOOKBUDDY
-Book recommendation system
+
